@@ -4,10 +4,7 @@ title: "Web开发资源列表"
 date: "2017-03-03 17:28"
 ---
 
-# Awesome Web  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/alphayang/awesome-web)
-
-
-Web开发资源列表
+# Awesome Web  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/alphayang/awesome-web) Web开发资源列表
 
 ## 目录
 
@@ -15,7 +12,7 @@ Web开发资源列表
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Awesome Web  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/alphayang/awesome-web)](#awesome-web-awesomehttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvghttpsgithubcomalphayangawesome-web)
+- [Awesome Web  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/alphayang/awesome-web)]
 	- [目录](#目录)
 	- [浏览器工具](#浏览器工具)
 	- [浏览器功能](#浏览器功能)
