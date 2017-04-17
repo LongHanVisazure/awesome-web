@@ -30,10 +30,12 @@ Web开发资源列表
 <!-- /MarkdownTOC -->
 
 <a name="browser-tools" />
+
 ## 浏览器工具
+
 *  [Chrome Dev Tools](http://code.google.com/chrome/devtools/docs/overview.html)
-Chrome浏览器内置开发工具，实时编辑HTML、CSS和JavaScript，还可在
- [console](http://code.google.com/chrome/devtools/docs/console.html)中运行代码.
+
+Chrome浏览器内置开发工具，实时编辑HTML、CSS和JavaScript，还可在[console](http://code.google.com/chrome/devtools/docs/console.html)中运行代码.
 
 * [Firefox Developer Tools](https://developer.mozilla.org/tools)
 
@@ -49,6 +51,7 @@ Opera 工具.
 
 
 <a name="browser-capability" />
+
 ## 浏览器功能
 
 * [caniuse.com](http://caniuse.com)
@@ -100,6 +103,7 @@ HTML、 CSS 和 JavaScript 特性: flux中有什么, 什么是flakey, 能用来�
 
 
 <a name="tutorial" />
+
 ## 文档和教程
 
 * [Khan Academy](https://www.khanacademy.org/)
@@ -203,6 +207,7 @@ HTML, CSS 和 JavaScript的文章和教程 .
 跨行业构建web文档的项目，虽已无人维护但还是有一些有用的信息。
 
 <a name="online-editor" />
+
 ## 在线代码编辑器
 
 
@@ -236,6 +241,7 @@ HTML、CSS和JavaScript的在线编辑演示。
 Google的JavaScript APIs示例。
 
 <a name="hosting" />
+
 ## 托管
 
 * [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
@@ -243,6 +249,7 @@ Google的JavaScript APIs示例。
 介绍Git, GitHub, GitHub Pages 和 Jekyll.
 
 <a name="lint-validator" />
+
 ## 代码检测和验证工具
 
 * [W3C HTML validator](http://validator.w3.org/)
@@ -282,6 +289,7 @@ JSON 验证工具.
 格式化JavaScript和HTML的开源工具。
 
 <a name="test" />
+
 ## 测试
 
 * [Page Speed Tools](http://code.google.com/speed/page-speed/)
@@ -339,7 +347,9 @@ Chrome开发工具中的网络模拟模式
 * [openstf](https://github.com/openstf/stf)
 
 一个简单的web应用支持跨Android进行网页测试。
+
 <a name="lib" />
+
 ## 库和包管理器
 
 * [Gulp](https://css-tricks.com/gulp-for-beginners/)
@@ -399,6 +409,7 @@ Web应用框架
 
 
 <a name="spec" />
+
 ## 标准和规范
 
 * [W3C](http://www.w3.org/standards/)
@@ -414,6 +425,7 @@ HTML最新标准。
 JavaScript只是它的一种方言。
 
 <a name="books" />
+
 ## 书
 
 * [JavaScript: The Definitive Guide](http://www.amazon.co.uk/JavaScript-Definitive-Guide-Guides/dp/0596805527/ref=sr_1_1?ie=UTF8&qid=1326894097&sr=8-1)
