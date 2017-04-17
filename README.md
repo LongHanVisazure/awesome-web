@@ -11,6 +11,8 @@ date: "2017-03-03 17:28"
 <!-- MarkdownTOC depth=4 -->
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [目录](#目录)
 	- [浏览器工具](#浏览器工具)
 	- [浏览器功能](#浏览器功能)
 	- [文档和教程](#文档和教程)
