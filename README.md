@@ -12,24 +12,27 @@ Web开发资源列表
 ## 目录
 
 <!-- MarkdownTOC depth=4 -->
-- [浏览器工具](#browser-tools)
-- [浏览器功能](#browser-capability)
-- [文档和教程](#tutorial)
-- [在线代码编辑器](#online-editor)
-- [托管](#hosting)
-- [代码检测和验证工具](#lint-validator)
-- [测试](#test)
-- [库和包管理器](#lib)
-- [标准和规范](#spec)
-- [书](#books)
-- [统计和归档数据](#stats-archive)
-- [其它](#other)
 
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [Awesome Web  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/alphayang/awesome-web)](#awesome-web-awesomehttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvghttpsgithubcomalphayangawesome-web)
+	- [目录](#目录)
+	- [浏览器工具](#浏览器工具)
+	- [浏览器功能](#浏览器功能)
+	- [文档和教程](#文档和教程)
+	- [在线代码编辑器](#在线代码编辑器)
+	- [托管](#托管)
+	- [代码检测和验证工具](#代码检测和验证工具)
+	- [测试](#测试)
+	- [库和包管理器](#库和包管理器)
+	- [标准和规范](#标准和规范)
+	- [书](#书)
+	- [统计和归档数据](#统计和归档数据)
+	- [其它](#其它)
+
+<!-- /TOC -->
 
 <!-- /MarkdownTOC -->
-
-<a name="browser-tools" />
 
 ## 浏览器工具
 
@@ -48,9 +51,6 @@ IE的开发者工具。
 * [Opera Dragonfly](http://www.opera.com/dragonfly/)
 
 Opera 工具.
-
-
-<a name="browser-capability" />
 
 ## 浏览器功能
 
@@ -99,10 +99,6 @@ HTML、 CSS 和 JavaScript 特性: flux中有什么, 什么是flakey, 能用来�
 
 * [ES6 compatibility](https://kangax.github.io/compat-table/es6/)
 从服务器端和浏览器的ECMAScript兼容性列表。
-
-
-
-<a name="tutorial" />
 
 ## 文档和教程
 
@@ -206,10 +202,7 @@ HTML, CSS 和 JavaScript的文章和教程 .
 
 跨行业构建web文档的项目，虽已无人维护但还是有一些有用的信息。
 
-<a name="online-editor" />
-
 ## 在线代码编辑器
-
 
 * [JS Bin](http://jsbin.com/)
 
@@ -240,15 +233,11 @@ HTML、CSS和JavaScript的在线编辑演示。
 
 Google的JavaScript APIs示例。
 
-<a name="hosting" />
-
 ## 托管
 
 * [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
 
 介绍Git, GitHub, GitHub Pages 和 Jekyll.
-
-<a name="lint-validator" />
 
 ## 代码检测和验证工具
 
@@ -287,8 +276,6 @@ JSON 验证工具.
 * [JS Beautifier](http://jsbeautifier.org/)
 
 格式化JavaScript和HTML的开源工具。
-
-<a name="test" />
 
 ## 测试
 
@@ -348,8 +335,6 @@ Chrome开发工具中的网络模拟模式
 
 一个简单的web应用支持跨Android进行网页测试。
 
-<a name="lib" />
-
 ## 库和包管理器
 
 * [Gulp](https://css-tricks.com/gulp-for-beginners/)
@@ -407,9 +392,6 @@ MVC 框架。
 
 Web应用框架
 
-
-<a name="spec" />
-
 ## 标准和规范
 
 * [W3C](http://www.w3.org/standards/)
@@ -423,8 +405,6 @@ HTML最新标准。
 * [ECMAScript](http://en.wikipedia.org/wiki/ECMAScript)
 
 JavaScript只是它的一种方言。
-
-<a name="books" />
 
 ## 书
 
@@ -452,7 +432,6 @@ JavaScript编程的入门好书，并有大量的可编辑在线示例。
 
 作者的文章都值得一读，特别是关于JavaScript的[视频课程](http://yuiblog.com/crockford/)。
 
-<a name="stats-archive" />
 ## 统计和归档数据
 
 * [Wikipedia browser usage share](http://en.wikipedia.org/wiki/Usage_share_of_web_browsers)
@@ -519,12 +498,8 @@ Web技术的趋势，实用统计和网站性能。
 
 麦当劳巨无霸指数，大于60个国家, 用来衡量 [平均购买力](https://en.wikipedia.org/wiki/Purchasing_power_parity)。
 
-<a name="other" />
 ## 其它
 
 * [lorempixel](http://lorempixel.com/)
 
 免费的占位图片。
-
-
-
